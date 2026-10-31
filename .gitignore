@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.venv/
+.env
+.env.*
+!.env.example
+.studio-temp/
+backups/
+uploads/
+playwright-report/
+test-results/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.tsbuildinfo
+*.log
+artifacts/
