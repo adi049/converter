@@ -1,5 +1,7 @@
 # PDF Studio 2.0 — My Personal Document Toolkit
 
+> **Public preview:** The GitHub Pages deployment is a frontend showcase only. GitHub Pages cannot run this project's Node.js/Python processing backend, so backend-powered PDF operations require the full application server. Do not upload private documents to the public preview.
+
 A working, single-user document workbench with a responsive React interface and real local processing engines. No account, advertising, subscription, analytics, or third-party document-conversion service.
 
 **Important:** this is a local application, not a static website. The browser handles previews, image processing and some PDF creation; a Node server on your own computer supervises Python, LibreOffice, Tesseract, Ghostscript and Chromium. Opening `index.html` directly will not start those engines.
