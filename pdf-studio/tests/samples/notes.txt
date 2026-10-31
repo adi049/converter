@@ -1,0 +1,4 @@
+PDF Studio
+
+A plain text document with real paragraphs.
+Created locally for integration testing.
